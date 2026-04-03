@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 129428350,
+    "name": "Flipside",
+    "author": "A1nonym0usgamer",
+    "creator": ["A1nonym0usgamer"],
+    "verifier": "A1nonym0usgamer",
+    "verification": "https://youtu.be/BJ7eHAe7_QM",
+    "points": 20,
+    "password": "No password",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "user": "",
+            "link": "",
+            "percent": ,
+            "hz": 
         }
     ]
 }
